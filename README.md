@@ -1,7 +1,7 @@
 # SEN202 EXAM - QUESTION 1
 
-**Name:** John Leo  
-**Matric Number:** SEN7325  
+**Name:** Obibuzor Leo  
+**Matric Number:** VUG-SEN-22-7325  
 **GitHub Username:** l30-git
 
 ## Description
