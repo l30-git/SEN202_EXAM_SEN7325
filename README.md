@@ -1,4 +1,9 @@
-# SEN202_EXAM_SEN7325
-Obibuzor leo
-vug/sen/22/7325
-https://l30-git/SEN202_EXAM_SEN7325
+# SEN202 EXAM - QUESTION 1
+
+**Name:** John Leo  
+**Matric Number:** SEN7325  
+**GitHub Username:** Obibuzor leo7325
+
+## Description
+This project manages company staff using a Django REST API. It supports managers and interns with proper model inheritance, encapsulation, and serialization.  
+
